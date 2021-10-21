@@ -1,0 +1,34 @@
+import pygame
+
+pygame.init()
+
+
+# Color
+BLACK = (0, 0, 0)
+WHITE = (255, 255, 255)
+RED = (255, 0, 0)
+GREEN = (0, 255, 0)
+BLUE = (0, 0, 255)
+YELLOW = (255, 255, 0)
+PURPLE = (128, 0, 128)
+GREY = (128, 128, 128)
+ORANGE = (255, 165, 0)
+
+SCREEN_WIDTH = 500
+SCREEN_HEIGHT = 500
+
+FPS = 60
+
+ROWS = COLS = 50
+
+PIXEL_SIZE = SCREEN_HEIGHT // ROWS
+
+BACKGROUND_COLOR = WHITE
+
+DRAW_GIRD_LINES = True
+
+
+
+
+
+
